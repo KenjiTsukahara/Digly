@@ -1,0 +1,92 @@
+/* register_email
+-------------------------------------------------- */
+
+h1, h2, h3 {
+	font-weight:bold;
+	color:#2a2a2a;
+	margin:0;
+}
+p {
+	margin-bottom:15px;
+	color:#999;
+}
+h1 {
+	margin-bottom:20px;
+}
+hr {
+	border: 1px dashed #eee;
+	margin: 20px 0;
+}
+a {
+	text-decoration:none;
+}
+a.scroll {
+	color: #666;
+	font-weight: bold;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+a.scroll:hover {
+	color: #1a1a1a;
+}
+.section {
+	margin:0 auto;
+	bottom:0px;
+	width:100%;
+	float:inherit;
+	text-align:center;
+}
+.email-form, .signup-form, .forgot-pwd {
+	background:#fff;
+	border-radius: 4px;
+	padding:30px;
+	text-align:center;
+	margin:0 auto;
+}
+.email-form, .forgot-pwd {
+	width:350px;
+}
+
+.form-wrapper-01 {
+	margin: 0;
+	padding: 10px 0;
+}
+.form-wrapper-01 .inputbox {
+	border: 1px solid #eaedf2;
+	border-radius:3px;
+	height: 20px;
+	padding: 10px 0 10px 10px;
+	width: 44%;
+	outline:none;
+	margin-bottom:10px;
+	font-family: inherit;
+}
+.email-form .form-wrapper-01 .inputbox {
+	width:88%;
+}
+.form-wrapper-01 .name {
+	background:#eaedf2 url(images/user.png) 10px 13px no-repeat;
+}
+.form-wrapper-01 .email {
+	background:#eaedf2;
+}
+.form-wrapper-01 .password {
+	background:#eaedf2 url(images/password.png) 10px 10px no-repeat;
+}
+.form-wrapper-01 a.button {
+	background: none repeat scroll 0 0 #14B9D5;
+	border: none;
+	border-radius: 4px 4px 4px 4px;
+	color: #FFFFFF;
+	cursor: pointer;
+	font-family: inherit;
+	font-size: 15px;
+	font-weight: 700;
+	padding: 10px 20px;
+}
+.form-wrapper-01 .button:hover {
+	background:#0e778a;
+}
+.form-wrapper-01 a.button > i {
+	font-size:20px;
+}

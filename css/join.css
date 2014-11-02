@@ -1,0 +1,55 @@
+.btn.btn-large.rounded {
+-webkit-border-radius: 8px;
+-moz-border-radius: 8px;
+border-radius: 8px;
+}
+.btn.btn-blue {
+color: #fff;
+background-color: #69d2e7;
+}
+.btn.rounded {
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+}
+.btn.btn-large {
+padding: 15px 24px 15px;
+-webkit-border-radius: 1px;
+-moz-border-radius: 1px;
+border-radius: 1px;
+font-size: 18px;
+}
+.btn {
+border: none;
+background: #d8e0c6;
+background-image: none;
+color: #222;
+text-decoration: none;
+text-transform: uppercase;
+text-shadow: none;
+-webkit-box-shadow: none;
+-moz-box-shadow: none;
+box-shadow: none;
+-webkit-border-radius: 1px;
+-moz-border-radius: 1px;
+border-radius: 1px;
+padding: 7px 14px 7px;
+font-family: 'OpenSansBold',Arial,sans-serif;
+font-size: 13px;
+line-height: 21px;
+}
+.btn-large {
+padding: 11px 19px;
+font-size: 17.5px;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+}
+.btn.btn-tw {
+color: #fff;
+background-color: #69d2e7;
+}
+.btn.btn-fb {
+color: #fff;
+background-color: #4060a0;
+}
